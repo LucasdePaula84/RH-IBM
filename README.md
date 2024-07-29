@@ -1,10 +1,10 @@
 # RH-IBM
-Este é um conjunto de dados de RH fictício, criado por cientistas de dados da IBM. Fonte:https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
+Este é um conjunto de dados de RH fictício, criado por cientistas de dados da IBM. Fonte:https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset<br>
 
-Questoes a serem respondidas:
-A- Qual a concentracao de funcionarios por idade?
-B- Como esta a distribuicao de salario?
-C- Qual a porcentagem de funcionarios homens e mulheres?
-D- Como esta distribuido a area de estudo dos funcionarios?
-E- Distribuicao Salarial por sexo.
-F-Distribuicao Salarial por tempo de casa.
+Questoes a serem respondidas:<br>
+A- Qual a concentracao de funcionarios por idade?<br>
+B- Como esta a distribuicao de salario?<br>
+C- Qual a porcentagem de funcionarios homens e mulheres?<br>
+D- Como esta distribuido a area de estudo dos funcionarios?<br>
+E- Distribuicao Salarial por sexo.<br>
+F-Distribuicao Salarial por tempo de casa.<br>
